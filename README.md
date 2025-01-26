@@ -1,10 +1,5 @@
 # Fizzi3D
 
-[![GitHub license](https://img.shields.io/github/license/your-username/fizzi3d)](https://github.com/your-username/fizzi3d/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/fizzi3d)](https://github.com/your-username/fizzi3d/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/fizzi3d)](https://github.com/your-username/fizzi3d/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/fizzi3d)](https://github.com/your-username/fizzi3d/network)
-
 Fizzi3D is an interactive web application that allows users to view, rotate, and zoom in on 3D models in real-time. It provides a sleek, responsive interface for showcasing 3D assets in a user-friendly manner, making it ideal for product displays, portfolios, or learning tools.
 
 **Live Demo**: [Fizzi3D on Vercel](https://fizzi3d-six.vercel.app/)
